@@ -11,6 +11,7 @@ In my spare time I like to cook and play sports.
 
 **Non-strategic Econometrics (for Initial Play)**
 Daniel Chui, Jason Hartline, James R. Wright
+
 AAMAS 2023
 [paper](https://arxiv.org/abs/2208.06521)
 
