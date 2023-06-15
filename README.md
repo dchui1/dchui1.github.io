@@ -1,6 +1,6 @@
 I'm a recent MSc graduate currently seeking machine learning roles in industry. 
-<!-- 
-My interests include (but are not limited to) algorithmic and behavioral game theory, and multi agent systems. -->
+
+My interests include (but are not limited to) algorithmic and behavioral game theory, and multi agent systems.
 
 I completed my MSc at the University of Alberta under [Dr. James Wright](jrwright.info), where my master's thesis focused on behavioral game theory, specifically in applying behavioral models towards more accurately inferring agent preferences.
 
@@ -10,9 +10,9 @@ In my spare time I like to read, cook, and play sports. You can view some of my 
 
 ## Publications
 
-**Non-strategic Econometrics (for Initial Play)**
+[**Non-strategic Econometrics (for Initial Play)**](https://arxiv.org/abs/2208.06521)
 
 Daniel Chui, Jason Hartline, James R. Wright
 
-AAMAS 2023[paper](https://arxiv.org/abs/2208.06521)
+AAMAS 2023 [paper](https://arxiv.org/abs/2208.06521)
 
