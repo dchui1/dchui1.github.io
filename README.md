@@ -8,6 +8,8 @@ Prior to that, I worked in the tech industry in a variety of roles,from tech sup
 
 In my spare time I like to read, cook, and play sports. You can view some of my culinary adventures [here](instagram.com/dchewy_). My sports playing is not documented because I am terrible.
 
+You can contact me at: dchui1 [at] ualberta.ca
+
 ## Publications
 
 [**Non-strategic Econometrics (for Initial Play)**](https://arxiv.org/abs/2208.06521)
