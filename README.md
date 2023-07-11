@@ -6,9 +6,9 @@ I completed my MSc at the University of Alberta under [Dr. James Wright](jrwrigh
 
 Prior to that, I worked in the tech industry in a variety of roles,from tech support to ERP consulting. Most recently, I was a full stack developer at a few startups.
 
-In my spare time I like to read, cook, and play sports. You can view some of my culinary adventures [here](instagram.com/dchewy_). My sports playing is not documented because I am terrible.
+In my spare time I like to read, cook, and play sports. You can view some of my culinary adventures [here](https://www.instagram.com/dchewy_/). My sports playing is not documented because I am terrible.
 
-You can contact me at: dchui1 [at] ualberta.ca
+You can contact me at: dchui1 [at] ualberta.ca 
 
 ## Publications
 
@@ -18,3 +18,4 @@ Daniel Chui, Jason Hartline, James R. Wright
 
 AAMAS 2023 [paper](https://arxiv.org/abs/2208.06521)
 
+## Projects
